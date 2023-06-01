@@ -6,6 +6,7 @@ int main()
     cout << "Enter two numbers :";
     cin >> x >> y;
     cout << "sum of two numbers is :" << x + y<<endl;
+    cout<<"Aur babua kaise aana hua ";
 
     return 0;
 }
